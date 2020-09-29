@@ -1,2 +1,2 @@
 # Assignment.Bead_Sort
-This project is created for Cappuccino LLC Game Developer Assignment.
+This project is an assignment for which created for Cappuccino LLC Game Developer.
